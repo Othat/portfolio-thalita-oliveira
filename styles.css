@@ -543,7 +543,7 @@ a {
     font-size: 1.1rem;
     background: var(--bg-color);
     box-shadow: 0 0 0.3rem var(--main-color);
-    
+    color: #b4b4b4;
 }
 
 /* Aumenta o tamanho da area dos input ao passar o mouse */
@@ -558,6 +558,7 @@ a {
     border: 2px solid var(--main-color);
     background: var(--bg-color);
     box-shadow: 0 0 0.3rem var(--main-color);
+    color: #b4b4b4;
 }
 
 /* Aumenta o tamanho da área ao passar o mouse */
